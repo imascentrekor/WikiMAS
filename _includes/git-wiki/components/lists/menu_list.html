@@ -1,18 +1,7 @@
-<div class="git-wiki-page-list">
-    {% if site.inc_before_page_list %}
-    {% include {{ site.inc_before_page_list }} %}
-    {% endif %}
+Menu (<a href="{{ site.github.repository_url }}/edit/{{site.git_branch | escape}}/_includes/drassil/sidebar.html">편집</a>):
 
-    <span class="page-list-title">Menu (<a href="{{ site.github.repository_url }}/edit/{{site.git_branch | escape}}/_includes/git-wiki/components/lists/menu_list.html">편집</a>):</span>
-    <ul class="page-list">
-        <li class="page-list-item">
-          <a href="{{ '/' | relative_url }}">대문</a>
-        </li>
-        <li class="page-list-item">
-          <a href="https://github.com/imascentrekor">깃헙 페이지</a>
-        </li>
-        <li class="page-list-item">
-          <a href="https://discord.gg/cCTSE3y">토론</a>
-        </li>
-    </ul>
-</div>
+<ul>
+  <li><a href="{{ '/' | relative_url }}">대문</a>
+  <li><a href="https://github.com/imascentrekor">깃헙 페이지</a>
+  <li><a href="https://discord.gg/cCTSE3y">토론</a>
+</ul>
