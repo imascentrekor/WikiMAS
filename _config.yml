@@ -123,9 +123,9 @@ inc_after_toc :
 inc_before_content : 
 inc_after_content : 
 inc_before_footer : 
-inc_after_footer : "test.html"
-inc_before_head : 
-inc_after_head : 
+inc_after_footer : 
+inc_before_head : "test.html"
+inc_after_head : "test.html"
 inc_before_meta : 
 inc_after_meta : 
 inc_before_scripts : 
