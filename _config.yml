@@ -133,14 +133,14 @@ inc_before_scripts :
 inc_after_scripts : 
 inc_before_styles : 
 inc_after_styles :  
-inc_before_header : "test.html"
-inc_after_header : "test.html"
-inc_before_tail : 
-inc_after_tail : 
+inc_before_header : 
+inc_after_header : 
+inc_before_tail : "test.html"
+inc_after_tail : "test.html"
 inc_before_tools : 
 inc_after_tools : 
 
-inc_before_page_list : "git-wiki/components/lists/menu_list.html"
-inc_after_page_list :
+inc_before_page_list : 
+inc_after_page_list : "git-wiki/components/lists/menu_list.html"
 inc_before_post_list :
 inc_after_post_list :
