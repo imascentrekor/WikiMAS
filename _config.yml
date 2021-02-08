@@ -1,7 +1,7 @@
 # (string) Title of your wiki
 title: WIKIM@S
 # (string) Description of your wiki
-description: 
+description: IdolMASTER info wiki
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
@@ -136,10 +136,10 @@ inc_before_header :
 inc_after_header : 
 inc_before_tail : 
 inc_after_tail : 
-inc_before_tools : "test.html"
-inc_after_tools : "test.html"
+inc_before_tools :
+inc_after_tools : 
 
 inc_before_page_list : 
-inc_after_page_list : "git-wiki/components/lists/menu_list.html"
+inc_after_page_list : 
 inc_before_post_list :
-inc_after_post_list :
+inc_after_post_list : "git-wiki/components/lists/menu_list.html"
