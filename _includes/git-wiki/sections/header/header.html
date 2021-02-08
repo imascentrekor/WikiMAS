@@ -19,7 +19,7 @@
       {% include git-wiki/components/logo/logo.html %}
       {% else %}
       <h1>{{ site.title | escape }}</h1>
-      <h2>{{ site.description | escape }}</h2>
+      {{ site.description | escape }}
       {% endif %}
     </div>
 
