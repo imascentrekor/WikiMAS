@@ -2,6 +2,7 @@
 title: 위키마스
 # (string) Description of your wiki
 description: Wikimas
+
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
