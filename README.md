@@ -1,4 +1,5 @@
-# 위키마스
+# WikiM@S
+![logo](assets/logos/wikimas_v4.png)
 
 본 위키는 아이돌마스터에 관해 다루는 위키입니다.<br>
 2월 12일 정식 공개 예정
