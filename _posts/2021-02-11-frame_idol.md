@@ -5,7 +5,7 @@ OOO는 XXX 프로덕션 소속의 아이돌이다.
 ## 아이돌 프로필
 
 | :---: | :---: |
-| <img src=image/01 Haruka.png/> |
+| <img src="image/01 Haruka.png"/> |
 | 나이 | |
 | 혈액형 |
 | 생일 | |
