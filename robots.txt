@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://yagamiharume.github.io/KouWiki/sitemap.xml
+Sitemap:https://imascentrekor.github.io/WikiMAS/sitemap.xml
