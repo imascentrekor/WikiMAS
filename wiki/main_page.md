@@ -17,7 +17,7 @@ redirect_from: "/"
 
 ## 편집 지침
 
-[위키마스/편집 지침](위키마스/편집 지침)을 참고해주세요.
+[위키마스-편집 지침](위키마스-편집 지침)을 참고해주세요.
 
 ## Special Thanks To...
 본 위키는 다음 서버에서 운영중입니다: [디스코드 Idolm@ster centre Korea 서버](https://discord.gg/cCTSE3y)
