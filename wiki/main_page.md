@@ -6,6 +6,7 @@ redirect_from: "/"
 # 위키마스 대문
 
 ![logo](assets/logos/wikimas_v4.png)
+
 본 위키는 아이돌 마스터에 관해 종합적으로 다루는 위키입니다.
 
 ## 다루는 주제
