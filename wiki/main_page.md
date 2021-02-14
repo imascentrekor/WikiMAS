@@ -3,7 +3,7 @@ redirect_from: "/"
 ---
 
 
-# 위키마스 대문
+# Front Page
 
 ![logo](assets/logos/wikimas_v4.png)
 
