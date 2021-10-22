@@ -2,7 +2,7 @@
 ![logo](assets/logos/wikimas_v4.png)
 
 본 위키는 아이돌마스터에 관해 다루는 위키입니다.<br>
-2월 중순 정식 공개 예정
+[베타 운영 중](https://wikimas.kr/)
 
 ## 다루는 주제
 
